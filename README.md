@@ -14,9 +14,15 @@
 14.Para el factor de doble autenticación lo ponemos con el movil via SMS.
 15.
 
-NOMBRE			GITHUB
-Carlos Fdez		https://github.com/CarlosFdezJim
-Pablo 			https://github.com/blogart
-Jose Emilio		https://github.com/joseft00
+
+
+|        NOMBRE          |                     GITHUB                        |
+|------------------------|---------------------------------------------------|
+| Jose Emilio | [enlace a github 1](https://github.com/joseft00) |
+| Carlos | [enlace a github 1](https://github.com/CarlosFdezJim) |
+| Pablo | [enlace a github 3](https://github.com/blogart) |
+
+
+
 
 
